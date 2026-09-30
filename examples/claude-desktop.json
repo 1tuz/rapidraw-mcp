@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "rapidraw": {
+      "command": "/Users/antony/Projects/rapidraw-mcp/target/release/rapidraw-mcp",
+      "args": [],
+      "env": {
+        "RAPIDRAW_API_URL": "http://127.0.0.1:17355",
+        "RAPIDRAW_TIMEOUT_SECS": "30"
+      }
+    }
+  }
+}
